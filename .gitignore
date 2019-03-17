@@ -1,6 +1,8 @@
 # Compiled class file
 *.class
 
+*.~ava
+
 # Log file
 *.log
 
